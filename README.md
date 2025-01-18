@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**Eslam-Mohamed66/Eslam-Mohamed66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello!, I'm Eslam Mohamed</h1>
 
-Here are some ideas to get you started:
+<h2 align="center">Software Engineer | ASP.NET Developer</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/eslam-mohamed-7876ab286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-0060A0?style=for-the-badge&logo=linkedin&logoColor=white" height="34"/>
+  </p>
+
+<h3 align="left">🛠️ Languages & Tools:</h3>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,bootstrap,js,angular,postman&perline=9"/>
+  </p>
+
+<h3 align="left">🏆 GitHub Trophies:</h3>
+  <p align="left">
+    <img src="https://github-profile-trophy.vercel.app/?username=eslam-mohamed66&theme=onestar&row=1&column=7"/>
+  </p>
+  
